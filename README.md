@@ -6,7 +6,7 @@ Prepared by Eamonn Bell (Durham University), April 2023.
 
 **BEFORE YOU BEGIN**: Please ensure that the volume control on your headphones is at the lowest possible setting, and is correctly connected to the headphone jack of the computer you will use to work on these materials.
 
-## Preferred option
+# Preferred option
 
 To begin click on this badge:
 
@@ -14,8 +14,9 @@ To begin click on this badge:
 
 Or, equivalently, visit this URL:
 
-[https://mybinder.org/v2/gh/eamonnbell-dur/music-taster/HEAD?labpath=taster.ipynb](https://mybinder.org/v2/gh/eamonnbell-dur/music-taster/HEAD?labpath=taster.ipynb)
+### [https://mybinder.org/v2/gh/eamonnbell-dur/music-taster/HEAD?labpath=taster.ipynb](https://mybinder.org/v2/gh/eamonnbell-dur/music-taster/HEAD?labpath=taster.ipynb)
 
+---
 
 ## Backup option
 
