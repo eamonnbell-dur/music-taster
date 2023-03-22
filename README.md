@@ -6,6 +6,14 @@ Prepared by Eamonn Bell (Durham University), April 2023.
 
 **BEFORE YOU BEGIN**: Please ensure that the volume control on your headphones is at the lowest possible setting, and is correctly connected to the headphone jack of the computer you will use to work on these materials.
 
+# First steps
+
+1. Ensure your computer is booted to the Linux desktop 
+2. Login in using the credentials provided
+3. Open up a browser window (in the top left corner of the screen, Applications > Internet > Firefox ESR)
+4. Visit this url: https://github.com/eamonnbell-dur/music-taster
+5. Follow the steps under "Preferred option"
+
 # Preferred option
 
 To begin click on this badge:
